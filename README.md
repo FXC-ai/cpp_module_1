@@ -1,6 +1,6 @@
 # C++ Modules (Projet 42)
 
-Ce dépôt rassemble les différents modules CPP de la piscine 42.
+Ce dépôt rassemble les différents modules CPP de la piscine 42. Les README sont les notes que j'ai prise au cours de mes recherches. Ils ne sont pas exhaustifs mais peuvent constituer un bon point de départ pour comprendre les différents concepts amenés pas chaque module.
 
 - CPP00 : Introduction aux bases du C++ avec les variables, pointeurs, références, tableaux, conteneurs et manipulation de fichiers.
 - CPP01 : Allocation dynamique, références, gestion de la mémoire et notions avancées comme les maps en C++.
